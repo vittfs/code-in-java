@@ -43,7 +43,7 @@ Este repositório reúne:
 ### ▶️ Como Executar
 
 #### Clone o repositório
-git clone https://github.com/vittfs/vittfs.git
+git clone https://github.com/vittfs/code-in-java.git
 
 1. Abra o projeto no VS Code
 2. Navegue até o arquivo desejado
