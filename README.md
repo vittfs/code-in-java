@@ -1,4 +1,4 @@
-## 💻 Vittfs - Java Study Hub
+## 💻 Java Study Hub
 
 Repositório dedicado aos meus estudos em Java, com foco em prática, evolução contínua e consolidação dos fundamentos da programação.
 
