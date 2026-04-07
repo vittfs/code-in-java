@@ -1,7 +1,5 @@
 ## 💻 Vittfs - Java Study Hub
 
-🌸 Code. Learn. Repeat.
-
 Repositório dedicado aos meus estudos em Java, com foco em prática, evolução contínua e consolidação dos fundamentos da programação.
 
 ### ✨ Sobre
