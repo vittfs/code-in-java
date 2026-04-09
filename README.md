@@ -25,6 +25,7 @@ Este repositório reúne:
  ├── 📁 Condicionais 
  └── 📁 Exercícios
  ├── 📁 Calculadora IMC
+ ├── 📁 Classificação de Produtos 
  
  └── README.md
 
@@ -43,7 +44,8 @@ Este repositório reúne:
 
 - Projeto Tabuada
 - Projeto Média do Aluno
-- Projeto Calculadora IMC 
+- Projeto Calculadora IMC
+- Projeto Classificação de Produtos 
 
 ### ▶️ Como Executar
 
