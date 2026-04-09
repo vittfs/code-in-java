@@ -22,6 +22,10 @@ Este repositório reúne:
  └── 📁 Exercícios
  ├── 📁 Tabuada 
  ├── 📁 Média Aluno
+ ├── 📁 Condicionais 
+ └── 📁 Exercícios
+ ├── 📁 Calculadora IMC
+ 
  └── README.md
 
  
@@ -39,6 +43,7 @@ Este repositório reúne:
 
 - Projeto Tabuada
 - Projeto Média do Aluno
+- Projeto Calculadora
 
 ### ▶️ Como Executar
 
