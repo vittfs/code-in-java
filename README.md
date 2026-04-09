@@ -11,7 +11,7 @@ Este repositório reúne:
 - Exemplos organizados por tema
 - Anotações de estudo
 
-#### 📚 Base de aprendizado:
+#### 📚 Base de estudos:
 - Curso Hora de Codar (Java)
 - Exercícios e conteúdos vistos na faculdade
 ### 📂 Estrutura do Repositório
