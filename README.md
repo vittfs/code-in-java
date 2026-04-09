@@ -43,7 +43,7 @@ Este repositório reúne:
 
 - Projeto Tabuada
 - Projeto Média do Aluno
-- Projeto Calculadora
+- Projeto Calculadora IMC 
 
 ### ▶️ Como Executar
 
