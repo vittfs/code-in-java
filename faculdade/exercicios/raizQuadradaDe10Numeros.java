@@ -16,5 +16,6 @@ public class raizQuadradaDe10Numeros {
 
             System.out.println("raiz de " + num + " = " + Math.sqrt((float) num));
         }
+        scanner.close();
     }    
 }
