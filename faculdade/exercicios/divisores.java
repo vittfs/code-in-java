@@ -22,5 +22,7 @@ public class divisores {
             }
         }
         System.out.println(num + " tem " + cont + " divisores");
+
+        scanner.close();
     }    
 }
