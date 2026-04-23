@@ -19,5 +19,6 @@ public class parOuImpar {
      else{
          System.out.println(num + " é ÍMPAR!");
      }
+        scanner.close();
     }    
 }
