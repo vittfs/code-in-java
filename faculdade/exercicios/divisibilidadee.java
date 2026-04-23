@@ -29,5 +29,6 @@ public class divisibilidadee {
             System.out.printf("\n%d é divisível por 2",num);
         }
         else{ System.out.printf("\n%d não é divisível por 2",num); }
+        scanner.close();
     }   
 }
