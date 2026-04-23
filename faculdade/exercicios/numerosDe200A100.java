@@ -10,5 +10,6 @@ public class numerosDe200A100 {
         for (int i = 200; i >= 100; i--){
             System.out.println(i);
         }
+        scanner.close();
     }    
 }
