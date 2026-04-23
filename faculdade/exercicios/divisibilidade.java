@@ -33,5 +33,6 @@ public class divisibilidade {
             else{
          System.out.printf("\n%dnão é divisivel por %d",a,b);                                
             }
+        scanner.close();
     }   
 }
