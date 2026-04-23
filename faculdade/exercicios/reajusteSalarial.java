@@ -29,5 +29,7 @@ funcionário e imprima o valor do salário reajustado. */
         System.out.printf("\nReajuste: %.2f",reaj);
 
         System.out.printf("\nSalário Final: %.2f",sal_reaj);
+
+     scanner.close();
     }  
 }
