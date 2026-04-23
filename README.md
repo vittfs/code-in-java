@@ -26,6 +26,7 @@ Este repositório reúne:
  └── 📁 Exercícios
  ├── 📁 Calculadora IMC
  ├── 📁 Classificação de Produtos 
+ ├── 📁 Exercícios da Faculdade 
  
  └── README.md
 
