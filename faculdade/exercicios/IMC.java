@@ -39,6 +39,7 @@ public class IMC {
               else
                   if (imc <= 40){
           System.out.printf("IMC = %.1f - OBESO",imc);
-                  }                         
+                  } 
+     scanner.close();
 }
 }
