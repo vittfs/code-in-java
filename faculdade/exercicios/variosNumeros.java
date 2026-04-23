@@ -18,5 +18,6 @@ public class variosNumeros {
             System.out.println("Digite um nº positivo ou 0 para finalizar:");
             num = scanner.nextInt();
         }
+        scanner.close();
     }    
 }
