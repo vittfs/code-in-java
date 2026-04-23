@@ -24,5 +24,7 @@ public class numeroPrimo {
             System.out.println(num+" é primo!");
         }
         else {System.out.println(num+" não é primo!");}
+
+        scanner.close();
     }    
 }
