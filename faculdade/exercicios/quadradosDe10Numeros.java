@@ -16,5 +16,6 @@ public class quadradosDe10Numeros {
 
             System.out.println(num + "² = " + num*num);
         }
+        scanner.close();
     }   
 }
