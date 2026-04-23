@@ -30,5 +30,7 @@ public class vendaELucro {
         System.out.printf("\nLucro: R$ %.2f ",lucro);
 
         System.out.printf("\nValor de Venda: R$ %.2f ",venda);
+
+        scanner.close();
     }   
 }
