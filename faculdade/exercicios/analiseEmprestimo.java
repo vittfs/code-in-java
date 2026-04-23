@@ -31,5 +31,6 @@ public class analiseEmprestimo {
             System.out.println("Empréstimo NEGADO.");
             System.out.printf("A prestação excede o limite permitido de R$ %.2f\n", limiteMaximo);
         }
+        scanner.close();
     }
 }
