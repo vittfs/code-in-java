@@ -46,5 +46,6 @@ public class classificaPreco {
         if (novo_preco <= 200){
         System.out.printf("\nNovo Preço = R$%.2f - CARO", novo_preco);
         }
+        scanner.close();
     }
 }
